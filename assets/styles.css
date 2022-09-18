@@ -40,7 +40,7 @@ section{ padding: 60px; position: relative;}
 .box{padding: 1.5rem 40px !important;  background-color: var(--black) !important;}
 .box1{padding: 1.5rem 40px !important;   background-color: var(--primary) !important;}
 .box1 h4{color: #00463F !important; font-family: var(--blinker-font); font-weight: 600;}
-.about-area{padding: 0px; right: 0; bottom: -267px; width: 579px; z-index: 1; position: absolute;}
+.about-area{padding: 0px; right: 12px; bottom: -267px; width: 579px; z-index: 1; position: absolute;}
 .about_img{background-image: url(../assets/img/about-map.png); background-position: top center; background-size: 380px; background-repeat: no-repeat;}
 .about-area h4{color: #fff; font-style: normal; font-weight: 600; font-size: 20px; line-height: 28px;}
 .about_image img { height: 305px;width: 100%;object-fit: cover; }
